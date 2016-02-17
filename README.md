@@ -10,5 +10,5 @@
 - [CodeCademy](https://www.codecademy.com/pt/)
 - [KhanAcademy](https://pt.khanacademy.org/)
 
-<strong><inspiração</strong>
+<strong>inspiração</strong>
 [Awwwards](www.awwwards.com/)
