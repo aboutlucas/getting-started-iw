@@ -11,4 +11,4 @@
 - [KhanAcademy](https://pt.khanacademy.org/)
 
 <strong>inspiração</strong>
-[Awwwards](www.awwwards.com/)
+- [Awwwards](www.awwwards.com/)
