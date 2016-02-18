@@ -3,7 +3,7 @@
 ### Links:
 <strong>Artigos</strong>
 - [Tableless](http://tableless.com.br/)
-- [W3C Scholl](http://www.w3schools.com/)
+- [W3schools](http://www.w3schools.com/)
 - [Maujor](http://www.maujor.com/index.php/)
 
 <strong>Cursos</strong>
